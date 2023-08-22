@@ -7,10 +7,10 @@
 
 #import <Foundation/Foundation.h>
 
-#import "JTCalendarDelegate.h"
+#import <JTCalendar/JTCalendarDelegate.h>
 
-#import "JTMenu.h"
-#import "JTContent.h"
+#import <JTCalendar/JTMenu.h>
+#import <JTCalendar/JTContent.h>
 
 // Synchronize JTHorizontalCalendarView and JTCalendarMenuView
 

@@ -5,9 +5,9 @@
 //  Created by Jonathan Tribouharet
 //
 
-#import "JTCalendarPageView.h"
+#import <JTCalendar/JTCalendarPageView.h>
 
-#import "JTCalendarManager.h"
+#import <JTCalendar/JTCalendarManager.h>
 
 #define MAX_WEEKS_BY_MONTH 6
 

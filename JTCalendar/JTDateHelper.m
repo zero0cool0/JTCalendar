@@ -5,7 +5,7 @@
 //  Created by Jonathan Tribouharet
 //
 
-#import "JTDateHelper.h"
+#import <JTCalendar/JTDateHelper.h>
 
 @interface JTDateHelper (){
     NSCalendar *_calendar;

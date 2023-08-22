@@ -7,7 +7,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "JTCalendarDelegate.h"
+#import <JTCalendar/JTCalendarDelegate.h>
 
 // Provide a default behavior when no delegate are provided
 

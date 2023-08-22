@@ -7,7 +7,7 @@
 
 #import "JTCalendarManager.h"
 
-#import "JTHorizontalCalendarView.h"
+#import <JTCalendar/JTHorizontalCalendarView.h>
 
 @implementation JTCalendarManager
 

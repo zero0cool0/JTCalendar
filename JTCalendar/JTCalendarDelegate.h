@@ -7,10 +7,10 @@
 
 #import <UIKit/UIKit.h>
 
-#import "JTCalendarPage.h"
-#import "JTCalendarWeek.h"
-#import "JTCalendarWeekDay.h"
-#import "JTCalendarDay.h"
+#import <JTCalendar/JTCalendarPage.h>
+#import <JTCalendar/JTCalendarWeek.h>
+#import <JTCalendar/JTCalendarWeekDay.h>
+#import <JTCalendar/JTCalendarDay.h>
 
 @class JTCalendarManager;
 

@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "JTCalendarWeekDay.h"
+#import <JTCalendar/JTCalendarWeekDay.h>
 
 @interface JTCalendarWeekDayView : UIView<JTCalendarWeekDay>
 

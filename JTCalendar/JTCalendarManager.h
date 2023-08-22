@@ -7,16 +7,16 @@
 
 #import <UIKit/UIKit.h>
 
-#import "JTCalendarDelegate.h"
+#import <JTCalendar/JTCalendarDelegate.h>
 
-#import "JTContent.h"
-#import "JTMenu.h"
+#import <JTCalendar/JTContent.h>
+#import <JTCalendar/JTMenu.h>
 
-#import "JTDateHelper.h"
-#import "JTCalendarSettings.h"
+#import <JTCalendar/JTDateHelper.h>
+#import <JTCalendar/JTCalendarSettings.h>
 
-#import "JTCalendarDelegateManager.h"
-#import "JTCalendarScrollManager.h"
+#import <JTCalendar/JTCalendarDelegateManager.h>
+#import <JTCalendar/JTCalendarScrollManager.h>
 
 @interface JTCalendarManager : NSObject
 

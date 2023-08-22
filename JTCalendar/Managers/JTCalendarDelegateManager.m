@@ -7,12 +7,12 @@
 
 #import "JTCalendarDelegateManager.h"
 
-#import "JTCalendarManager.h"
+#import <JTCalendar/JTCalendarManager.h>
 
-#import "JTCalendarPageView.h"
-#import "JTCalendarWeekDayView.h"
-#import "JTCalendarWeekView.h"
-#import "JTCalendarDayView.h"
+#import <JTCalendar/JTCalendarPageView.h>
+#import <JTCalendar/JTCalendarWeekDayView.h>
+#import <JTCalendar/JTCalendarWeekView.h>
+#import <JTCalendar/JTCalendarDayView.h>
 
 @implementation JTCalendarDelegateManager
 

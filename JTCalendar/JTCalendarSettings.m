@@ -5,7 +5,7 @@
 //  Created by Jonathan Tribouharet
 //
 
-#import "JTCalendarSettings.h"
+#import <JTCalendar/JTCalendarSettings.h>
 
 @implementation JTCalendarSettings
 

@@ -5,9 +5,9 @@
 //  Created by Jonathan Tribouharet
 //
 
-#import "JTCalendarMenuView.h"
+#import <JTCalendar/JTCalendarMenuView.h>
 
-#import "JTCalendarManager.h"
+#import <JTCalendar/JTCalendarManager.h>
 
 typedef NS_ENUM(NSInteger, JTCalendarPageMode) {
     JTCalendarPageModeFull,

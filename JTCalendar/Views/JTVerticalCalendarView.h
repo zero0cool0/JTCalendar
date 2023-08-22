@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "JTContent.h"
+#import <JTCalendar/JTContent.h>
 
 @interface JTVerticalCalendarView : UIScrollView<JTContent>
 

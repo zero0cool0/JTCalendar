@@ -14,16 +14,16 @@ FOUNDATION_EXPORT double JTCalendarVersionNumber;
 FOUNDATION_EXPORT const unsigned char JTCalendarVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements
-#import "JTCalendarManager.h"
+#import <JTCalendar/JTCalendarManager.h>
 
-#import "JTHorizontalCalendarView.h"
-#import "JTVerticalCalendarView.h"
+#import <JTCalendar/JTHorizontalCalendarView.h>
+#import <JTCalendar/JTVerticalCalendarView.h>
 
-#import "JTCalendarMenuView.h"
+#import <JTCalendar/JTCalendarMenuView.h>
 
-#import "JTCalendarPageView.h"
-#import "JTCalendarWeekDayView.h"
-#import "JTCalendarWeekView.h"
-#import "JTCalendarDayView.h"
+#import <JTCalendar/JTCalendarPageView.h>
+#import <JTCalendar/JTCalendarWeekDayView.h>
+#import <JTCalendar/JTCalendarWeekView.h>
+#import <JTCalendar/JTCalendarDayView.h>
 
 

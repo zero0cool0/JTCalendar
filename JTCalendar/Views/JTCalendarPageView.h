@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "JTCalendarPage.h"
+#import <JTCalendar/JTCalendarPage.h>
 
 @interface JTCalendarPageView : UIView<JTCalendarPage>
 

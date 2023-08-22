@@ -5,9 +5,9 @@
 //  Created by Jonathan Tribouharet
 //
 
-#import "JTCalendarDayView.h"
+#import <JTCalendar/JTCalendarDayView.h>
 
-#import "JTCalendarManager.h"
+#import <JTCalendar/JTCalendarManager.h>
 
 @implementation JTCalendarDayView
 

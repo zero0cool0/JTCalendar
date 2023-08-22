@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "JTMenu.h"
+#import <JTCalendar/JTMenu.h>
 
 @interface JTCalendarMenuView : UIView<JTMenu, UIScrollViewDelegate>
 

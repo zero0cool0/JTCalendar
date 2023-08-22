@@ -5,9 +5,9 @@
 //  Created by Jonathan Tribouharet
 //
 
-#import "JTCalendarWeekDayView.h"
+#import <JTCalendar/JTCalendarWeekDayView.h>
 
-#import "JTCalendarManager.h"
+#import <JTCalendar/JTCalendarManager.h>
 
 #define NUMBER_OF_DAY_BY_WEEK 7.
 

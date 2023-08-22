@@ -5,7 +5,7 @@
 //  Created by Jonathan Tribouharet
 //
 
-#import "JTCalendarScrollManager.h"
+#import <JTCalendar/JTCalendarScrollManager.h>
 
 @implementation JTCalendarScrollManager
 
